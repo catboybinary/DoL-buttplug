@@ -1,7 +1,14 @@
 # DoL Buttplug.io Patcher
 This patcher mimics the way that the Breeze of Lewdity patcher works and adds Ayrelith's Buttplug.io mod to any version of the game.
 
+## Installation
+Just download the source zip-file and extract everything in your DoL folder, then run the appropriate script.
+
+- For Windows: `buttplug-patcher.bat`
+- For Linux: `buttplug-patcher.sh`
+
 ## Versions that work at the time of writing this
+I've only tested this on Linux, so you'll have to test the Windows patcher yourself <3
 - DoL Vanilla 0.5.12.7
 - DoLP v0.774 0.5.12.7
 - DoLP v0.774 0.5.12.7 BoL Patched
