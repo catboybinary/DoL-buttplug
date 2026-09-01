@@ -1,14 +1,7 @@
 @echo off
 
 echo.
-echo  _           _   _         _               _       
-echo | |         | | | |       | |             (_)      
-echo | |__  _   _| |_| |_ _ __ | |_   _  __ _   _  ___  
-echo | '_ \| | | | __| __| '_ \| | | | |/ _` | | |/ _ \ 
-echo | |_) | |_| | |_| |_| |_) | | |_| | (_| |_| | (_) |
-echo |_.__/ \__,_|\__|\__| .__/|_|\__,_|\__, (_)_|\___/ 
-echo                     | |             __/ |          
-echo                     |_|            |___/           
+echo buttplug integration      
 echo.
 
 setlocal enabledelayedexpansion
